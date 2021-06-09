@@ -1,0 +1,30 @@
+Case scenario:
+-App that manage todo.
+
+
+     Send me some notification.
+     Remind me.
+     Things to do.
+
+
+###Doing something and store the data, so that when you're back! it pops them back.
+
+
+Material UI 
+Boostrap
+ANTD
+
+
+1.5 speed
+
+
+Dev.to
+stackoverflow
+stackexchange
+github
+dev.to
+
+
+
+
+
